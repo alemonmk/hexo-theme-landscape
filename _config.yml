@@ -2,10 +2,10 @@
 menu:
   Home: /
   Archives: /archives
-rss: /atom.xml
+rss: /rss.xml
 
 # Content
-excerpt_link: Read More
+excerpt_link: 閱讀全文
 fancybox: true
 
 # Sidebar
@@ -25,12 +25,12 @@ index_widgets:
 
 # widget behavior
 archive_type: 'monthly'
-show_count: false
+show_count: true
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
-twitter:
+#favicon: /favicon.png
+twitter: Monoremonton
 google_plus:
 fb_admins:
 fb_app_id:
